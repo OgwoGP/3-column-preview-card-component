@@ -6,17 +6,17 @@ Esta é uma solução para o [desafio 3-column preview card component](https://w
 
 ## Índice
 
-- [Visão geral] (# visão geral)
-  - [O desafio] (# o-desafio)
-  - [Screenshot] (# screenshot)
-  - [Links] (# links)
-- [Meu processo] (# meu-processo)
-  - [Criado com] (# integrado)
-  - [O que aprendi] (# o que aprendi)
-  - [Desenvolvimento contínuo] (# desenvolvimento contínuo)
-  - [Recursos úteis] (# recursos-úteis)
-- [Licença] (#licenc-a)
-- [Autor] (# autor)
+- [Visão geral](#visão-geral)
+  - [O desafio](#o-desafio)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Meu processo](#meu-processo)
+  - [Criado com](#integrado)
+  - [O que aprendi](#o-que-aprendi)
+  - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
+  - [Recursos úteis](#recursos-úteis)
+- [Licença](#licenc-a)
+- [Autor](#autor)
 
 ## Visão geral
 
@@ -30,7 +30,7 @@ Os usuários devem ser capazes de:
 ### 📌 Screenshot
 
 <img src="img/desktop.jpeg" alt="Preview Card" width="960">
-<img src="img/mobile.jpeg" alt="Preview Card" width="960">
+<img src="img/mobile.jpeg" alt="Preview Card" width="360">
 
 ### 🔗 Links
 
@@ -52,7 +52,7 @@ Comecei o desenvolvimento dos cards com o conceito de mobile-first e usei media 
 
 ### 🚀 Desenvolvimento contínuo
 
-Vou continuar me concentrando no conceito de mobile-first. Li neste <a href="https://marketingdecrescimento.com.br/google-mobile-first">artigo</a>que é uma boa prática.
+Vou continuar me concentrando no conceito de mobile-first. Li neste <a href="https://marketingdecrescimento.com.br/google-mobile-first">artigo</a> que é uma boa prática.
 
 ### 💘 Recursos úteis
 
@@ -64,7 +64,7 @@ Este projeto está sob a licença do MIT. Consulte a [LICENSE](https://github.co
 
 
 ## 🦸‍♀️ Autor 
-<a href="https://github.com/tawaramartins">Tawara Martins</a>.
+<a href="https://github.com/tawaramartins">Tawara Martins</a>.<br>
 <a href="https://www.linkedin.com/in/tawara-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
