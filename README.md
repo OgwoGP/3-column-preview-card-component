@@ -34,8 +34,7 @@ Os usuários devem ser capazes de:
 
 ### 🔗 Links
 
-- URL da solução: [Adicionar URL da solução aqui] (https://your-solution-url.com)
-- URL do site ativo: [Adicionar URL do site ativo aqui] (https://your-live-site-url.com)
+- URL da solução: [3-column preview card component](https://tawaramartins.github.io/3-column-preview-card-component/)
 
 ## Meu processo
 
